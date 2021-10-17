@@ -1,17 +1,18 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+title: "Why Quantamental Finance?" # leave blank to exclude
+number_featured: 2 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 5 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  The term quantamental is, in fact, a portmanteau of quantitative and fundamental and thus refers to an investment strategy that involves combining quantitative and fundamental approaches to investing, with the aim of improving returns. 
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  By merging these two approaches to investing---computer power with human insight---it is hoped by those now adopting quantamental investing that such an approach can deliver superior returns. Indeed, this combination is often regarded as a melding of man and machine: the investor harnesses the scale and power of data and blends it with the benefits of human insight in order to unearth winning investment strategies.
+  
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://www.apreshill.com/) for creating this Hugo theme!
 ---
 
 ** index doesn't contain a body, just front matter above.
