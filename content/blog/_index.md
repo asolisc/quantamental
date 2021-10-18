@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Alexis Solis
 cascade:
-  author: The R Markdown Team @RStudio
+  author: The R Markdown Team
   show_author_byline: true
   show_comments: true
   show_post_date: true
@@ -9,9 +9,8 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
-layout: list-sidebar
+description: "Welcome to my personal blog! Feel free to use the tags to find interesting quant content."
+layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
