@@ -5,7 +5,7 @@ action_type: text
 description: This website intends to serve as a useful resource for learning quantitative finance and data science tools using R and Python.
 image_left: true
 images:
-- img/front-cover4.jpg
+- img/front-finance2.jpg
 show_action_link: true
 show_social_links: true
 subtitle: A website dedicated to Data Science and Finance
