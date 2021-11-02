@@ -10,6 +10,8 @@ intro: |
   
   By merging these two approaches to investing---computer power with human insight---it is hoped by those now adopting quantamental investing that such an approach can deliver superior returns. Indeed, this combination is often regarded as a melding of man and machine: the investor harnesses the scale and power of data and blends it with the benefits of human insight in order to unearth winning investment strategies.
   
+  Below you can find some featured blogposts which I hope can teach you something.
+  
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://www.apreshill.com/) for creating this Hugo theme!
