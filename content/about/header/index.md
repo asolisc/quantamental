@@ -3,15 +3,18 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Quantamental Finance
+  Hello!
 ---
 
 <!-- this is a subheadline -->
-There's a reason why you're here reading this blog right now. You and I are not so different, we have something in common. You and I both think that the use data (and Data Science) has a place, a very important one, in finance. Of course the use of data and modern modeling techniques (say, Machine Learning or Deep Learning, or what have you) is ubiquitous and is not only applicable to finance, but I've always been more interested in how data can help make better, smarter investment decisions. As Larry Fink himself has said:
+Thanks for stopping by!
 
-"The democratization of information has made it much harder for active management," Larry Fink. :us: 
+I'm a M.Sc. in Data Science and B.Sc. in Finance working a full-time job as a Senior Data Scientist at GBM. My research interests include applications of data science processes and machine learning in finance. I work in the Data Science & Strategy team and develop novel data mining methods to extract actionable investment ideas.
 
-It's worth noting that **Data Science is not equal to modeling**, and it is also not exclusive to modeling. Data Science is **a way of working, it's a way of thinking** and my purpose in creating this blog is to think about finance, and hopefully, through that process, share something of value to you.
+The purpose of creating this blog is to share my learning process and hopefully, through that process, share something of value to you.
 
+**Education**
 
+:star: M.Sc. in Data Science &#8729; ITAM &#8729; 2020
 
+:star: B.Sc. in Finance &#8729; ITAM &#8729; 2016

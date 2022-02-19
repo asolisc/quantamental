@@ -4,7 +4,7 @@ cascade:
 description: |
   A website dedicated to the intersection of DS and Finance.
 show_header: true
-sidebar_left: true
+sidebar_left: false
 title: Quantamental Finance
 ---
 

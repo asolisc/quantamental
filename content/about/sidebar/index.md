@@ -12,7 +12,7 @@ link_list:
 - name: R
   url: https://r4ds.had.co.nz/
 - name: Python
-  url: 
+  url: https://byuidatascience.github.io/python4ds/
 ---
 
 ** index doesn't contain a body, just front matter above.
