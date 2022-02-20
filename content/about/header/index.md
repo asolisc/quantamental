@@ -6,6 +6,8 @@ headline: |
   Hello!
 ---
 
+<!-- for unicode chars: 
+https://unicode-table.com/en/search/?q=bullet -->
 <!-- this is a subheadline -->
 Thanks for stopping by!
 
@@ -13,8 +15,8 @@ I'm a M.Sc. in Data Science and B.Sc. in Finance working a full-time job as a Se
 
 The purpose of creating this blog is to share my learning process and hopefully, through that process, share something of value to you.
 
-**Education**
+**&#127891; Education**
 
-:star: M.Sc. in Data Science &#8729; ITAM &#8729; 2020
+:star: M.Sc. in Data Science &#8226; ITAM &#8226; 2018--2020
 
-:star: B.Sc. in Finance &#8729; ITAM &#8729; 2016
+:star: B.Sc. in Finance &#8226; ITAM &#8226; 2011--2016
