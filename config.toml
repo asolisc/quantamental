@@ -34,10 +34,10 @@ enableEmoji = true
   favicon = "/img/shuttle.png" # create the directory and file in ~/static/
   logo = "/img/logo2.png" # create the directory and file in ~/static/
   mainSections = ["blog"]
-  navallcaps = true
+  navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
-  socialInHeader = false
+  socialInHeader = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
@@ -109,7 +109,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About" # what you see as text.
-    title = "About Blogophonic" # what appears as HTML title on browser.
+    title = "About Quantamental" # what appears as HTML title on browser.
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -118,8 +118,8 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Book Translations"
+    title = "Book Translations"
     url = "/project/"
     weight = 3
   [[menu.header]]
@@ -127,11 +127,11 @@ enableEmoji = true
     title = "Workshops"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
+  #[[menu.header]]
+    #name = "A collection"
+    #title = "A collection"
+   #url = "/collection/"
+    #weight = 5
   #[[menu.header]]
    # name = "Elements"
     #title = "Element Page"
@@ -149,11 +149,11 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  #[[menu.footer]]
-   # name = "Contributors"
-    #title = "Contributors"
-    #url = "/contributors/"
-    #weight = 3
+  [[menu.footer]]
+    name = "Contributors"
+    title = "Contributors"
+    url = "/contributors/"
+    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
