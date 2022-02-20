@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Alexis Cancino"
   orgLocal = ""
   description = "A blog dedicated to the intersection of DS and Finance."
-  favicon = "/img/cloud-ml.png" # create the directory and file in ~/static/
-  logo = "/img/cloud-ml.png" # create the directory and file in ~/static/
+  favicon = "/img/shuttle.png" # create the directory and file in ~/static/
+  logo = "/img/logo2.png" # create the directory and file in ~/static/
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer

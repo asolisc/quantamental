@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: This website intends to serve as a useful resource for learning quantitative finance and data science tools using R and Python.
+description: This website seeks to serve as a useful resource for learning quantitative finance and data science tools using R and Python.
 image_left: false
 images:
 - img/wheat.svg
