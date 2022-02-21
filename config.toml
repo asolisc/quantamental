@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "A blog dedicated to the intersection of DS and Finance."
   favicon = "/img/shuttle.png" # create the directory and file in ~/static/
-  logo = "/img/logo2.png" # create the directory and file in ~/static/
+  logo = "/img/blue-logo-3.svg" # create the directory and file in ~/static/
   mainSections = ["blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
