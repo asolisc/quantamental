@@ -1,7 +1,7 @@
 ---
 author: Alexis Solis Cancino
 cascade:
-  author: The R Markdown Team
+  author: Alexis Cancino
   show_author_byline: true
   show_comments: true
   show_post_date: true
