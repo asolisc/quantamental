@@ -6,24 +6,22 @@ cascade:
   show_comments: true
   show_post_date: true
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
 description: "Welcome to the Quantamental blog! Feel free to use the tags to find interesting quant-finance content."
-layout: list
+layout: list-sidebar
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  author: Alexis Cancino
+  description: "Welcome to the Quantamental blog! Feel free to use the tags to find interesting quant-finance content."
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
-thumbnail_left: true
+  text_link_label: Back to homepage
+  text_link_url: /
+  title: The Quantamental Blog
+thumbnail_left: false
 title: The Quantamental Blog
 ---
 
